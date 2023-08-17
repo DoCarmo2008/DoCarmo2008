@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5b0073&size=35&center=true&vCenter=true&width=1000&lines=Welcome!+My+name+is+Gabriel+do+Carmo+Batista;I+am+15+years+old;I+from+Belo+Horizonte,+MG,+BR;I+am+studying+Web+Development+at+CtrlPlay;Welcome+to+my+GitHub!!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DoCarmo2008&theme=dracula" alt="Gabriel do Carmo Batista's GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoCarmo2008&theme=dracula" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DoCarmo2008&show_icons=true&theme=tokyonight" alt="Gabriel do Carmo Batista's GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoCarmo2008&hide_progress=true&theme=tokyonight" />
 </div>
 
 
