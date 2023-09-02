@@ -38,8 +38,6 @@
 ### Apps:
 ![Spotify](https://img.shields.io/badge/Spotify-0D1117?&style=for-the-badge&logo=spotify&logoColor=darkgreen)&nbsp;
 ![SoundCloud](https://img.shields.io/badge/SoundCloud-0D1117?style=for-the-badge&logo=soundcloud&logoColor=orange)&nbsp;
-![Deezer](https://img.shields.io/badge/Deezer-0D1117?style=for-the-badge&logo=deezer&logoColor=red)&nbsp;
-![Youtube Music](https://img.shields.io/badge/YouTube_Music-0D1117?style=for-the-badge&logo=youtube-music&logoColor=darkred)&nbsp;
 ![Zoom](https://img.shields.io/badge/Zoom-0D1117?style=for-the-badge&logo=zoom&logoColor=lightblue)&nbsp;
   
 ### Studying:
@@ -50,7 +48,7 @@
 
 ### Contact:
 <a href="www.instagram.com/docarmoofficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=darkpink"></a>
-<a href="www.gmail.com/nigh8tbr@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=darkred"></a>
+<a href="www.gmail.com/gabrieldcbatista1@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=darkred"></a>
 <a href="www.discord.com/do_carmo"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=darkblue"></a>
 
   <div align="center">
