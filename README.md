@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5b0073&height=120&text=Gabriel+do+Carmo+Batista&fontSize=30&fontColor=eefff8&section=header&fontAlignY=33"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5b0073&size=35&center=true&vCenter=true&width=1000&lines=Hy+there!+My+name+is+Gabriel+do+Carmo+Batista;I+am+16+years+old;I'm+from+Belo+Horizonte,+MG,+BR;I+am+studying+Software+Development+at+CtrlPlay;Welcome+to+my+GitHub!!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5b0073&size=35&center=true&vCenter=true&width=1000&lines=Hello,+world!+My+name+is+Gabriel+do+Carmo+Batista;I+am+16+years+old;I'm+from+Belo+Horizonte,+MG,+BR;I+am+studying+Software+Development+at+CtrlPlay;Welcome+to+my+GitHub!!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DoCarmo2008&show_icons=true&theme=tokyonight" alt="Gabriel do Carmo Batista's GitHub Stats" /> 
