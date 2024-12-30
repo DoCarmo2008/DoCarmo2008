@@ -11,7 +11,7 @@
 </div>
 
 <!--Personal/Profissional informations-->
-- 👨🏾‍💻 I am a **16y** and a **Software Development Student** from *Brasil 🇧🇷*
+- 👨🏾‍💻 I am **16y** and a **Software Development Student** from *Brasil 🇧🇷*
 
 - 📚 Currently, I'm studying **FullStack JavaScript**
 
