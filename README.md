@@ -44,6 +44,7 @@
 
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=DoCarmo2008&theme=dark&show_icons=true&count_private=true" />
   <br></br>
+ <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66bb44f3427a3205d547a7ec?variant=dark" alt="roadmap.sh"/></a>
 </td>
 <td width="50%" align="center">
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DoCarmo2008&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
