@@ -11,7 +11,7 @@
 </div>
 
 <!--Personal/Profissional informations-->
-- 👨🏾‍💻 I am **16y** and a **Software Development Student** from *Brasil 🇧🇷*
+- 👨🏾‍💻 I am **17y** and a **Software Engineer Student** from *Brasil 🇧🇷*
 
 - 📚 Currently, I'm studying **FullStack JavaScript**
 
@@ -25,7 +25,7 @@
 
 - 💻 You can send me a **👋🏾** on Discord –  **[do_carmo](https://discord.com)** my username!
 
-- <a href="https://www.linkedin.com/in/gabriel-do-carmo-batista" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&perline=14" alt="linkedin" height="20" width="20" /></a> Complete informations about me on my **[Linkedin](https://www.linkedin.com/in/gabriel-do-carmo-batista)**
+- <a href="https://www.linkedin.com/in/gabriel-do-carmo-batista" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&perline=14" alt="linkedin" height="20" width="20" /></a> More informations about me on my **[Linkedin](https://www.linkedin.com/in/gabriel-do-carmo-batista)**
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
