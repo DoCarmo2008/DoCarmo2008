@@ -11,11 +11,9 @@
 </div>
 
 <!--Personal/Profissional informations-->
-- 👨🏾‍💻 I am **17y** and a **Software Engineer Student** from *Brasil 🇧🇷*
+- 👨🏾‍💻 I am **17y** and a **Computer Science student** at *UFMG 🇧🇷*
 
 - 📚 Currently, I'm studying **FullStack JavaScript**
-
-- 🌱 In this moment, I’m prioritizing **Front-end Development**
 
 - ⌨️ I have a **[portfolio](https://docarmo.pages.dev/)** and I'd like you to take a look at it 
 
