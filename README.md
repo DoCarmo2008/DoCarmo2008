@@ -11,7 +11,7 @@
 </div>
 
 <!--Personal/Profissional informations-->
-- 👨🏾‍💻 I am **17y** and a **Computer Science student** at *UFMG 🇧🇷*
+- 👨🏾‍💻 I am **18y** and a **Computer Science student** at *UFMG 🇧🇷*
 
 - 📚 Currently, I'm studying **FullStack JavaScript**
 
@@ -42,7 +42,6 @@
 
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=DoCarmo2008&theme=dark&show_icons=true&count_private=true" />
   <br></br>
- <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66bb44f3427a3205d547a7ec?variant=dark" alt="roadmap.sh"/></a>
 </td>
 <td width="50%" align="center">
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DoCarmo2008&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
@@ -66,22 +65,15 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![Trello](https://img.shields.io/badge/Trello-0D1117?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
-![Mirro](https://img.shields.io/badge/Miro-0D1117?style=for-the-badge&logo=Miro&logoColor=white)&nbsp;
+![Mac](https://img.shields.io/badge/-Mac-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-0D1117.svg?&style=for-the-badge&logo=Canva&logoColor=blue)&nbsp;
 
 
 ### Programming Languages I Know:
 <img src="https://skillicons.dev/icons?i=html,css,python&perline=14" />
-
-
-### Other Apps:
-![Spotify](https://img.shields.io/badge/Spotify-0D1117?&style=for-the-badge&logo=spotify&logoColor=darkgreen)&nbsp;
-![SoundCloud](https://img.shields.io/badge/SoundCloud-0D1117?style=for-the-badge&logo=soundcloud&logoColor=orange)&nbsp;
-![Zoom](https://img.shields.io/badge/Zoom-0D1117?style=for-the-badge&logo=zoom&logoColor=lightblue)&nbsp;
   
 ### Studying:
-<img src="https://skillicons.dev/icons?i=javascript,react,nodejs&perline=14" />
+<img src="https://skillicons.dev/icons?i=javascript,c&perline=14" />
 
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=black&height=120&section=footer"/>
