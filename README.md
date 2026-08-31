@@ -13,7 +13,7 @@
 <!--Personal/Profissional informations-->
 - 👨🏾‍💻 I am **18y** and a **Computer Science student** at *UFMG 🇧🇷*
 
-- 📚 Currently, I'm studying **FullStack JavaScript**
+- 📚 Currently, I'm studying **FullStack Development**
 
 - ⌨️ I have a **[portfolio](https://docarmo.pages.dev/)** and I'd like you to take a look at it 
 
