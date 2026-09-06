@@ -29,7 +29,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--Stat with separator-->
-<div id="user-content-toc">
+<!--<div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">How my GitHub's going</h2></summary>
   </ul>
@@ -51,7 +51,7 @@
 </p>    
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
 <!--Skills Tab-->
 
 <div id="user-content-toc">
@@ -70,10 +70,10 @@
 
 
 ### Programming Languages I Know:
-<img src="https://skillicons.dev/icons?i=html,css,python&perline=14" />
+<img src="https://skillicons.dev/icons?i=html,css,python,c&perline=14" />
   
 ### Studying:
-<img src="https://skillicons.dev/icons?i=javascript,c&perline=14" />
+<img src="https://skillicons.dev/icons?i=javascript&perline=14" />
 
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=black&height=120&section=footer"/>
